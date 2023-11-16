@@ -1,0 +1,70 @@
+<!DOCTYPE  html>
+      <html  lang="en">
+  <head>
+          <meta chardset="UTF-8">
+          <meta name="viewport"  content="width=device-width, initial-scale=1.0">
+          <title>My Portfolio</title>
+      </head>
+      <h1><center><font size="9">SYEDA AMBREEN</font></center></h1>
+     <h3><center><font size="5">WEB DESIGNER</h3></br>
+      <body bgcolor="white">
+      <div>
+      
+ 
+      <h2><font color="red" font size="5">About Me </h2>   
+  <p><font color="green">I am Syeda Ambreen, a student of Ma'am  Shafaq, and I'm enthusiastic about working on computer.My main interest lies web designing,where I dedicate my time and energy for perfecting my skils in this field.</p>
+  </div>
+  
+  <div>
+ <h2><font color="red"size="5">Educational criteria</h2> 
+ <ul>
+ <font color="green"><li>Education:Graduated with a BA</li>
+ <li>High Schooling:attended London Grammer School</li>
+ </ul>
+ </div>
+ 
+ <div>
+<h2><font size="5"color="red">Experties</h2>  
+<ul>
+<font color="green">
+<li>Enterpreneureship</li>
+<li>Web development</li>
+<li>Education</li>
+<li>Culinary Proficiency</li>
+<li>Fitness</li>
+</ul>  
+</div>
+
+<div>
+<h2><font color="red" size="5">Goals</h2>
+<ul><font color="green">
+<li>Mastery in Business</li>
+<li>Proficiency in Business and IT Programming</li>
+</ul> 
+</div>
+  <!--
+  abtm
+  # My name is Syeda Ambreen 
+# Student of Ma'am Shafaq
+# Hobby is working on Computer
+# Intrested in  web designing
+
+EDU
+# Graduated in BA 
+# high schooliong in SSC
+
+
+expp
+# Business Women
+# html
+# Teaching
+# Food Expert
+# Fitness Influencer
+
+ GOALS
+# Expert in Business
+# Professional based on IT & Programmer
+-->
+  
+  </body>
+  </html>
